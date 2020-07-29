@@ -1,41 +1,48 @@
+body {
+  font-family:  sans-serif;
+}
+
 li {
   list-style: none;
 }
 
-.header {
-  width: 1250px;
-  height: 80px;
-  font-family: "Trebuchet MS";
-  color: White;
+.bar {
+  width: 1250ppx;
+  height: 20px;
   background-color: Black;
 }
 
-.header a {
+.bar {
+  color: White;
+  padding-top: 10px;
+}
+
+.logo {
+  height: 50px;
+  width: 1250px;
+  font-size: 40px;
+  padding-left: 520px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.list {
+  background-color: Black;
+  width: 1250px;
+  color: White;
+  font-size: 22px;
+  float: left;
+  padding-bottom: 20px;
+}
+
+.list li {
+  float: left;
+  padding-right: 40px;
+}
+
+.list a {
   color: White;
   text-decoration: none;
-}
-
-.header-logo {
-  font-size: 40px;
-  padding-top: 15px;
-  padding-left: 70px;
-  padding-right: 20px;
-  float: left;
-}
-
-.header-list {
-  list-style: none;
-  font-size: 22px;
-  color: White;
-  float: left;
-  padding-left: 70px;
-}
-
-.header-list li {
-  float: left;
-  color: White;
-  padding-top: 5px;
-  padding-right: 40px;
 }
 
 .main {
