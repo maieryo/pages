@@ -1,1 +1,1 @@
-# maieryo-web
+# maieryo-pages
