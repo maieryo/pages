@@ -37,3 +37,13 @@ li {
   padding-top: 5px;
   padding-right: 40px;
 }
+
+.main {
+  font-family: "Trebuchet MS";
+  float: left;
+  background-color: #F5F5F5;
+}
+
+.cv_file {
+  padding-left: 300px
+}
