@@ -40,13 +40,13 @@ li {
 
 .main {
   font-family: "Trebuchet MS";
+  float: left;
   background-color: #F5F5F5;
   width: 1250px;
-  height: 700px;
+  height:975px;
 }
 
-.file {
-  float: left;
-  padding-top: 10px;
-  padding-right: 100px;
+.cv_file {
+  padding-top: 30px;
+  padding-left: 175px;
 }
