@@ -53,18 +53,11 @@ li {
 }
 
 .intro {
-  width: 1250px;
+  width: 1180px;
   height: 150px;
   font-size: 20px;
-  padding-top: 30px;
-  float: left;
-}
-
-.intro_picture img {
-  height: 200px;
-  width: 300px;
-  padding-left: 20px;
-  padding-right: 40px;
+  padding-top: 10px;
+  padding-left: 50px;
   float: left;
 }
 
