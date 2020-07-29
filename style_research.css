@@ -1,0 +1,67 @@
+body {
+  font-family:  sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+.bar {
+  width: 1250ppx;
+  height: 20px;
+  background-color: Black;
+}
+
+.bar {
+  color: White;
+  padding-top: 10px;
+}
+
+.logo {
+  height: 50px;
+  width: 1250px;
+  font-size: 40px;
+  padding-left: 520px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.list {
+  background-color: Black;
+  width: 1250px;
+  color: White;
+  font-size: 22px;
+  float: left;
+  padding-bottom: 20px;
+}
+
+.list li {
+  float: left;
+  padding-right: 40px;
+}
+
+.list a {
+  color: White;
+  text-decoration: none;
+}
+
+.main {
+  float: left;
+  background-color: #F5F5F5;
+  width: 1250px;
+  height:975px;
+}
+
+.intro {
+  font-size: 18px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.intro_picture img {
+  height: 200px;
+  width: 300px;
+  padding-left: 20px;
+  padding-right: 40px;
+  float: left;
+}
