@@ -44,3 +44,8 @@ li {
   width: 900px;
   height: 1000px;
 }
+
+.cv_file {
+  padding-top: 5px;
+  padding-right: 30px;
+}
