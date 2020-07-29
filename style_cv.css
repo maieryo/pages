@@ -42,6 +42,8 @@ li {
   font-family: "Trebuchet MS";
   float: left;
   background-color: #F5F5F5;
+  width: 1250px;
+  height: 4000px;
 }
 
 .cv_file {
