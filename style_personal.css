@@ -1,0 +1,106 @@
+body {
+  font-family:  sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+.bar {
+  width: 1250ppx;
+  height: 20px;
+  background-color: Black;
+}
+
+.bar {
+  color: White;
+  padding-top: 10px;
+}
+
+.logo {
+  height: 50px;
+  width: 1250px;
+  font-size: 40px;
+  padding-left: 520px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.list {
+  background-color: Black;
+  width: 1250px;
+  color: White;
+  font-size: 22px;
+  float: left;
+  padding-bottom: 20px;
+}
+
+.list li {
+  float: left;
+  padding-right: 40px;
+}
+
+.list a {
+  color: White;
+  text-decoration: none;
+}
+
+.main {
+  float: left;
+  background-color: #F5F5F5;
+  width: 1250px;
+  height: 1200px;
+}
+
+.birding_intro {
+  font-size: 20px;
+  padding-left: 30px;
+  padding-right: 20px;
+  padding-top: 30px;
+}
+
+.birding_pictures_1 {
+  float: left;
+}
+
+.GreatCormorant {
+  height: 250px;
+  width: 300px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+.EurasianTreeSparrow {
+  height: 250px;
+  width: 300px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+.BlackKite {
+  height: 250px;
+  width: 350px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+.OrientalTurtleDove {
+  height: 250px;
+  width: 300px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+.GreatCrestedGrebe {
+  height: 250px;
+  width: 300px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+.GrayHeron {
+  height: 250px;
+  width: 350px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
