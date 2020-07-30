@@ -67,40 +67,67 @@ li {
   height: 250px;
   width: 300px;
   padding-left: 30px;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .EurasianTreeSparrow {
   height: 250px;
   width: 300px;
   padding-left: 30px;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .BlackKite {
   height: 250px;
   width: 350px;
   padding-left: 30px;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .OrientalTurtleDove {
   height: 250px;
   width: 300px;
   padding-left: 30px;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .GreatCrestedGrebe {
   height: 250px;
   width: 300px;
   padding-left: 30px;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .GrayHeron {
   height: 250px;
   width: 350px;
   padding-left: 30px;
-  padding-top: 20px;
+  padding-top: 10px;
+}
+
+.fuji_intro {
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 20px;
+  font-size: 20px;
+}
+.fuji_1 {
+  height: 250px;
+  width: 300px;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+.fuji_2 {
+  height: 250px;
+  width: 300px;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+.fuji_3 {
+  height: 250px;
+  width: 300px;
+  padding-left: 30px;
+  padding-top: 10px;
 }
